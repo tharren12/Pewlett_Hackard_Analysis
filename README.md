@@ -2,11 +2,11 @@
 
 ## Overview of Project
 
-V. Isualize, the CEO of Pyber, has asked for a summary of the ride-sharing data by city type utilizing DataFrame in Pandas for Python. Additionally, she wants to see a multiple-line graph that shows the total weekly fares for each city type. Finally a written submission that summarizes how the data differs by city type and how those differences can be used by decision-makers at Pyber.
+This project involved two primary assignments. The first assignment is to determine the number of retiring employees per job title, with retiring being defined as employees who were born between January 1, 1952 and December 31, 1955. The second assignment is to identify employees who are eligible to participate in a mentorship program, with eligibility based on whether the employee was born between January 1, 1965 and December 31, 1965.
 
 ## Resources
 
-* Data Source: Various .csv employee and HR files
+* Data Source: Various .csv Employee and HR files
 
 * Software: pgAdmin 4 v6.1
 
