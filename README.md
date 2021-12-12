@@ -40,7 +40,7 @@ Through the analysis it was determined that 30% of employees are close to retire
 
 Out of the 72.5K employees that are nearing retirement there are only 1.5K that have been identified as Mentorship Eligible. This criteria needs to be expanded and also potentially beyond age criteria and look to mentor currently Assistant Engineers to become Senior Engineers. 
 
-If expanding criteria for mentorship eligibility if including employees born in 1964 or 1963 would include 18K for each additional year and would therefore account for closer to 50% of employees that will be retiring shortly.
+It was identified through an additonal query of the date if expanding the criteria for mentorship eligibility and including employees born in 1964 or 1963 would include 18K for each additional year and would therefore account for closer to 50% of employees that could be retiring shortly.
 
 Another way to refine target list is to deprioritize employees that have only been hired recently out of the employees nearing retirement based on birth date only. Potentially a number of these employees will not actually be retiring if they have only recently been hired. As detailed in the below table there are 11.5% or 8.3K employees that are in the most recent 5 years of hiring and these could be deprioritized in terms of replacing.
 
