@@ -1,4 +1,4 @@
-# Pewlett_Hackard_Analysis
+# Pewlett Hackard Analysis
 
 ## Overview of Project
 
@@ -12,31 +12,38 @@ This project involved two primary assignments. The first assignment is to determ
 
 ## Pewlett Hackard Analysis Results
 
-### Overall Pyber Results by City Type
 
-[retiring_titles.csv](https://github.com/tharren12/Pewlett_Hackard_Analysis/files/7697827/retiring_titles.csv)
-
-
-* Urban city type has by far the highest number of Total Rides, Total Drivers and Total Fares
-* Urban city type is followed by Suburban then Rural in terms of total size
-* The highest average fare per ride is in the Rural city type, followed by Suburban then Urban
-* The highest average fare per driver is also in the Rural city type, followed by Suburban then Urban
+### Number of Close to Retiring Employees by Title
 
 
-### Weekly Total Fares by City Type (Jan-Apr 2019)
+![image](https://user-images.githubusercontent.com/92001105/145696861-a30baf0a-97a5-4c13-8707-5d5eed2805e7.png)
 
 
-![Pyber_fare_summary](https://user-images.githubusercontent.com/92001105/143665542-7e5f6a52-4c89-470a-a56f-02b2de85bf89.png)
-
-* The total weekly fares for Urban city type were at the lowest at the beginning of Jan and towards the end of Apr, and had the highest points in late Feb and early Mar
-* The total fares for Suburbaban city type were lowest at beginning of Jan and beginning of Apr and were at the peak at the end of Feb
-* Total weekly fares were consistent for Rural city type but did have the highest points in late Feb and beginning of Apr
+* Overall there are 240K current employees with 72K or 30% nearing retirement age
+* The job titles with the most number of employees nearing retirement are Senior Engineers (26K) and Senior Staff (25K)
+* Most job titles have close to 30% of employees nearing retirement, with only Managers being lower at 22%, however small sample size
 
 
-## Pyber Analysis Summary
+### Mentorship Eligible Employees
 
-The following summary are three potential action items that could be undertaken to address the most signifcant disparities between the city types.
 
-1. Put more marketing dollars into Rural and Suburban cities in order to drive more rides, drivers and total fares.
-2. Additionally, with more volume going into Rural and Suburban cities there will be increased profits due to higher average fares per ride and driver. Likely, the averages will come down slightly but can return a greater benefit per marketing dollar spent.
-3. Incent Urban city drivers to drive in Rural and Suburban cities if possible as there are significantly more drivers in Urban cities and could help to boost demand in underserved cities.
+![image](https://user-images.githubusercontent.com/92001105/145696705-e27a9426-1e04-4f86-bda0-fea9a6e47b73.png)
+
+
+* Very concerning that the mentorship eligible population only covers 2.1% of the number of employees close to retiring
+* The highest percentage of mentorship eligible employees of close to retiring are Assistant Engineers with 5.4% and the lowest number is Managers with no employees eligible for the mentorship program
+
+
+## Pewlett Hackard Summary
+
+Through the analysis it was determined that 30% of employees are close to retirement, which will be a very significant impact to the business over the coming years. The business will to identify additional employees for upward mobility or need to bring a large number of external new hires to address this labour shortage.
+
+Out of the 72.5K employees that are nearing retirement there are only 1.5K that have been identified as Mentorship Eligible. This criteria needs to be expanded and also potentially beyond age criteria and look to mentor currently Assistant Engineers to become Senior Engineers. 
+
+If expanding criteria for mentorship eligibility if including employees born in 1964 or 1963 would include 18K for each additional year and would therefore account for closer to 50% of employees that will be retiring shortly.
+
+Another way to refine target list is to deprioritize employees that have only been hired recently out of the employees nearing retirement based on birth date only. Potentially a number of these employees will not actually be retiring if they have only recently been hired. As detailed in the below table there are 11.5% or 8.3K employees that are in the most recent 5 years of hiring and these could be deprioritized in terms of replacing.
+
+![image](https://user-images.githubusercontent.com/92001105/145698190-2c4e57f5-9034-4eb3-83d7-f28abf5bb453.png)
+
+
